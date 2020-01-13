@@ -23,7 +23,6 @@ public class Dog extends Animal {
         this.bone = bone;
     }
 
-
     public void dogsBone(){
         System.out.println(name + ": " + bone);
     }
