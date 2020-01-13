@@ -6,15 +6,25 @@ public class Dog extends Animal {
     public Dog(int age, String name){
         super(name);
         this.age = age;
-//        this.name = name;
+        super.name = "SuperDog";
     }
 
     public Dog(String name, String bone) {
         super(name);
         this.bone = bone;
+        super.name = "SuperDoggy";
     }
 
-    void eat(){
-        System.out.println(name + " " + age + ": " + Cat.plate + " -> " + --Cat.plate);
+    public String getBone() {
+        return bone;
+    }
+
+    public void setBone(String bone) {
+        this.bone = bone;
+    }
+
+
+    public void dogsBone(){
+        System.out.println(name + ": " + bone);
     }
 }

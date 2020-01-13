@@ -7,6 +7,8 @@ public class Main {
         Cat cat2 = new Cat(2, "Kitty");
         Cat cat3 = new Cat(3, "Kitty");
 
+        cat1.setName("Murka");
+
         Dog dog1 = new Dog(5, "Johny");
 
         dog1.name = "Sharik";
@@ -16,7 +18,9 @@ public class Main {
         cat3.eat();
 
         dog1.eat();
+        dog1.setBone("Bone1");
 
-        Cat.foodAmount();
+        cat1.foodAmount();
+        dog1.dogsBone();
     }
 }
