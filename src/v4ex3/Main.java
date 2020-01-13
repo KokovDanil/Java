@@ -22,5 +22,9 @@ public class Main {
 
         cat1.foodAmount();
         dog1.dogsBone();
+
+        Animal animal = cat2;
+
+        System.out.println(animal instanceof Cat);
     }
 }

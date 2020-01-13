@@ -8,4 +8,8 @@ public class Cat extends Animal{
         this.age = age;
         super.name = "SuperCat";
     }
+
+    void voice(){
+        System.out.println("Myau");
+    }
 }

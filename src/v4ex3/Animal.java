@@ -34,4 +34,8 @@ public class Animal {
     static void foodAmount(){
         System.out.println(plate);
     }
+
+    void voice(){
+        System.out.println("....");
+    }
 }

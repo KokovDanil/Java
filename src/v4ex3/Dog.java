@@ -26,4 +26,8 @@ public class Dog extends Animal {
     public void dogsBone(){
         System.out.println(name + ": " + bone);
     }
+
+    void voice(){
+        System.out.println("Wow...");
+    }
 }
