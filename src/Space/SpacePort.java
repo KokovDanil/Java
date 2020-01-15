@@ -1,7 +1,5 @@
 package Space;
 
-import com.sun.javaws.Launcher;
-
 public class SpacePort {
     String name;
     int maxShip;
