@@ -2,35 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee582a13-5238-4a1c-bc14-18daf520a927" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/v5ex1/Fly.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v5ex1/Bat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v5ex1/Batman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v5ex1/Bitable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v5ex1/Can.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/Hangar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/LunchField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/MissionControlCenter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/Pilot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/SpacePort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/SpaceShip.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/SpacshipFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/Staff.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/META-INF/Mine.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/Space/Game.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/Space/Hangar.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/Space/LunchField.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/Space/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/Space/MissionControlCenter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/Space/Pilot$Status.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/Space/Pilot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/Space/SpacePort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/Space/SpaceShip$Type.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/Space/SpaceShip.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/Space/SpacshipFactory$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/Space/SpacshipFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/Space/Staff.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/sample/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/sample/firstSwing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/v4ex1/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/v4ex1/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/v4ex1/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/v4ex2/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/v4ex2/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/v4ex2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/v4ex3/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/v4ex3/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/v4ex3/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/v4ex3/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Space/SpacePort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Space/SpacePort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mine/Space/MissionControlCenter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mine/Space/MissionControlCenter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mine/Space/SpacshipFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mine/Space/SpacshipFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Mine/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mine/sample/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v5ex1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v5ex1/Animal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v5ex1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v5ex1/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v5ex1/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v5ex1/Fly.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/v5ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v5ex1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,6 +40,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -72,7 +66,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/v5ex2Space2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RecentsManager">
@@ -80,12 +74,14 @@
       <recent name="v4ex1" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\GitHub\Java\src\v5ex2Space2" />
+      <recent name="C:\GitHub\Java\src" />
       <recent name="D:\Mine\Java\src\v4ex3" />
       <recent name="D:\Mine\Java\src\" />
       <recent name="D:\Mine\Java\src\v4ex2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Main (3)">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Space.Main" />
       <module name="Mine" />
@@ -125,6 +121,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="v5ex2Space2.Main" />
+      <module name="Mine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="v5ex2Space2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="v4ex3.Main2" />
       <module name="Mine" />
@@ -151,26 +160,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="firstSwing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sample.firstSwing" />
-      <module name="Mine" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Space.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
         <item itemvalue="Application.Main (3)" />
         <item itemvalue="Application.Main2" />
         <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main (1)" />
-        <item itemvalue="Application.firstSwing" />
       </list>
     </recent_temporary>
   </component>
@@ -225,7 +221,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579085557450</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Commit">
+      <created>1579085845460</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1579085845460</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,25 +249,65 @@
     <option name="LAST_COMMIT_MESSAGE" value="Commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1579085477909">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1579258090137">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579085477909" />
-    <state x="620" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579084716968">
+    <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1579258090137" />
+    <state x="620" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1579256284525">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="620" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1579084716968" />
-    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1579085839824">
+    <state x="620" y="302" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1536.824@0.0.1536.824" timestamp="1579256284525" />
+    <state x="424" y="7" key="CommitChangelistDialog2" timestamp="1579258460471">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579085839824" />
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579085557823">
+    <state x="424" y="7" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1579258460471" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom" timestamp="1579258426110">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579085557823" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579258426110" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center" timestamp="1579258426109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1579258426109" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left" timestamp="1579258426109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1579258426109" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right" timestamp="1579258426109">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1579258426109" />
+    <state width="1493" height="192" key="GridCell.Tab.1.bottom" timestamp="1579257752625">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1579257752625" />
+    <state width="1493" height="192" key="GridCell.Tab.1.center" timestamp="1579257752624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1579257752624" />
+    <state width="1493" height="192" key="GridCell.Tab.1.left" timestamp="1579257752624">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1579257752624" />
+    <state width="1493" height="192" key="GridCell.Tab.1.right" timestamp="1579257752625">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="192" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1579257752625" />
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2" timestamp="1579085876993">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="146" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1579085876993" />
     <state x="470" y="237" key="com.intellij.ide.util.TipDialog" timestamp="1579084627652">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="470" y="237" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1579084627652" />
+    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1579256224481">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="578" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1579256224481" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1579257579545">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1579257579545" />
   </component>
 </project>

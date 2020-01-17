@@ -1,4 +1,10 @@
 package v5ex1;
 
-public class Fly {
+interface IFly {
+    void fly();
+    void landing();
+
+//    default void level8(){
+//        System.out.println("Try default");
+//    }
 }
