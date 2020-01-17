@@ -1,8 +1,8 @@
 package v5ex2Space2;
 
-public class MissionControlCenter {
+public class MissionControlCenter{
     String computers;
-    SpaceShip currentspaceShip;
+    ILaunch currentspaceShip;
 
     void launch(){
         if (prepareForLaunch()){

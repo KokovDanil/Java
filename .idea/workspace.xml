@@ -2,29 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ee582a13-5238-4a1c-bc14-18daf520a927" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/v5ex1/Bat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v5ex1/Batman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v5ex1/Bitable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v5ex1/Can.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/Hangar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/LunchField.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/MissionControlCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/Pilot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/SpacePort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/SpaceShip.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/SpacshipFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/Staff.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/Space/MissionControlCenter.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mine/Space/MissionControlCenter.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/Space/SpacshipFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mine/Space/SpacshipFactory$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Mine/sample/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Mine/sample/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/v5ex1/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v5ex1/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/v5ex1/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v5ex1/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/v5ex1/Fly.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v5ex1/Fly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/v5ex1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v5ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/v5ex2Space2/Launcable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/v5ex2Space2/MissionControlCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/v5ex2Space2/MissionControlCenter.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,8 +19,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -228,7 +207,14 @@
       <option name="project" value="LOCAL" />
       <updated>1579085845460</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Space2">
+      <created>1579258466675</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1579258466675</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -246,7 +232,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Commit" />
+    <MESSAGE value="Space2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Space2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="574" y="122" key="#com.intellij.ide.util.MemberChooser" timestamp="1579258090137">
