@@ -3,13 +3,13 @@ package v5ex2Space2;
 public class SpacePort {
     String name;
     int maxShip;
-    SpaceShip spaceShip;
+    ILaunch spaceShip;
     Staff[] staffs;
     Hangar hangar; // TODO
     LunchField lunchField; // TODO
     MissionControlCenter missionControlCenter;
 
-    void initWithSpaceship(SpaceShip spaceShip) {
+    void initWithSpaceship(ILaunch spaceShip) {
         this.spaceShip = spaceShip;
         missionControlCenter.currentspaceShip = spaceShip;
     }

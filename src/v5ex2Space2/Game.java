@@ -28,7 +28,7 @@ public class Game {
 
         spaceShip.setPilot(pilot);
         baikonur.missionControlCenter = mcc;
-        baikonur.initWithSpaceship(spaceShip);
+        baikonur.initWithSpaceship(new Can());
     }
 
     void start() {

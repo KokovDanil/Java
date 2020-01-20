@@ -1,6 +1,6 @@
 package v5ex2Space2;
 
-public class SpaceShip {
+public class SpaceShip implements ILaunch{
     double speed;
     double weight;
     double cargoValue;
@@ -14,7 +14,7 @@ public class SpaceShip {
         HEAVY_CARGO, LIGHT_CARGO, TRANSPORT, MILITARY;
     }
 
-    void launch(){
+    public void launch(){
         System.out.println("Start!");
     }
 
